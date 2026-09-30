@@ -1,5 +1,9 @@
 # Vireo Refund Analyst AI — End-to-End Submission
 
+
+DEMO VIDEO: https://drive.google.com/file/d/1Yk2ILrDntlwjzbBrIoRNTbFSz3s-0gmg/view?usp=sharing
+
+
 A local, end-to-end refund intelligence system for Vireo Audio. It separates deterministic financial reconciliation from AI-assisted investigation.
 
 ## What it does
